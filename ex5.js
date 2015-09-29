@@ -1,5 +1,5 @@
-var fs = require('fs')
-var path = require('path')
+var fs = require('fs');
+var path = require('path');
 var filesPath = process.argv[2];
 var extension = "." + process.argv[3];
 
